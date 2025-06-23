@@ -7,3 +7,5 @@ Make sure to set environment variables and create a Spotify App on the Spotify f
 You can use both version of the mosaic (phone background version and square) by altering the end of the code 
 
 Make sure you change the playlist ID as well
+
+![](https://github.com/4damo5/Album-Mosaic/blob/main/mosaic.jpg)
