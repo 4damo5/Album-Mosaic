@@ -8,4 +8,4 @@ You can use both version of the mosaic (phone background version and square) by 
 
 Make sure you change the playlist ID as well
 
-![](https://github.com/4damo5/Album-Mosaic/blob/main/mosaic.jpg)
+<img src="/mosaic.jpg" width="500" /> 
